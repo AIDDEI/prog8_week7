@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"weight":{"dtype":"number","min":66,"max":753},"battery":{"dtype":"number","min":800,"max":9500},"thickness":{"dtype":"number","min":5.1,"max":18.5}},"outputs":{"price":{"dtype":"number","min":628,"max":4361}},"isNormalized":true}
